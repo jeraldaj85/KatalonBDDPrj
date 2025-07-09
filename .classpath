@@ -237,7 +237,8 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="lib" path="C:/Users/Admin/.katalon/packages/KS-10.2.3/plugins/org.testng_7.8.0.jar"/>
-	<classpathentry kind="lib" path="D:/Katalon Prj/SamplePrj/Drivers/mysql-connector-j-9.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/git/KatalonBDDPrj_new/Drivers/mysql-connector-j-9.2.0.jar"/>
 	<classpathentry kind="con" path="GROOVY_SUPPORT"/>
+	<classpathentry kind="con" path="GROOVY_DSL_SUPPORT"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
