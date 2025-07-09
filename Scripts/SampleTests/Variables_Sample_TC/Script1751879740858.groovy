@@ -26,3 +26,4 @@ WebUI.acceptAlert()
 System.out.println('Print Varibale: ' + user)
 
 
+WebUI.acceptAlert()
