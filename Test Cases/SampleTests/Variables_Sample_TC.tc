@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Variables_Sample_TC</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>00fea000-500a-4e82-ae92-9c1f2de51152</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>fba836f0-e64e-4293-ab44-710e9f0c6cbe</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'jerald'</defaultValue>
+      <description></description>
+      <id>fba836f0-e64e-4293-ab44-710e9f0c6cbe</id>
+      <masked>false</masked>
+      <name>user</name>
+   </variable>
+</TestCaseEntity>
